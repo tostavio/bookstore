@@ -23,7 +23,7 @@
     "@types/styled-components": "^5.0.1",
     "add": "^2.0.6",
     "axios": "^0.19.2",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "numbro": "^2.3.0",
     "react": "16.11.0",
     "react-native": "0.62.2",
